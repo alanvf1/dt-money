@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-03-27T21:53:04.509Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-03-27T21:54:04.509Z"
+    },
+    {
+      "id": 3,
+      "description": "Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-03-27T21:54:04.509Z"
+    },
+    {
+      "description": "app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-03-28T00:40:20.941Z",
+      "id": 4
+    },
+    {
+      "description": "Tapioca",
+      "price": 9,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-28T00:53:39.944Z",
+      "id": 5
+    },
+    {
+      "description": "Madero",
+      "price": 59,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-03-29T13:05:07.734Z",
+      "id": 6
+    }
+  ]
+}
