@@ -1,7 +1,7 @@
 # DT Money
 An app to manage your daily transactions, check earnings, expenses and balance, developed during the Rocketseat course together with the instructor.
  
-For this project, was used features from React like React Router Dom, as well libraries such as axios, styled-components, react-hook-form, zod. To simulate some back-end functionalities, was used JSON Server.
+For this project, was used features from React like React Router Dom, as well libraries such as axios, styled-components, react-hook-form and zod. To simulate some back-end functionalities, was used JSON Server.
 
 ## Steps to run app on your local
 
